@@ -1,13 +1,6 @@
 date,type,description
-01/08/2024,state,State event description
-06/08/2024,state,State event description
-06/08/2024,rep,Republican event description
-06/08/2024,dem,Democratic event description
-19/08/2024,dem,Democratic event description
-20/08/2024,rep,Republican event description
-20/08/2024,dem,Democratic event description
-22/08/2024,dem,Democratic event description
-23/08/2024,dem,Democratic event description
-23/08/2024,rep,Republican event description
-03/09/2024,state,State event description
-05/11/2024,election,Election day event description
+08/01/2024,state,State event description
+08/02/2024,state,State event description
+08/02/2024,rep,Republican event description
+08/02/2024,dem,Democratic event description
+
