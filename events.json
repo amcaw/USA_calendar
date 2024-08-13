@@ -1,0 +1,32 @@
+[
+    {
+        "date": "15/8/2024",
+        "title": "Democratic National Convention",
+        "description": "The official nomination event for the Democratic Party candidate.",
+        "type": "dem"
+    },
+    {
+        "date": "20/8/2024",
+        "title": "Republican National Convention",
+        "description": "The official nomination event for the Republican Party candidate.",
+        "type": "rep"
+    },
+    {
+        "date": "5/11/2024",
+        "title": "Presidential Election",
+        "description": "The general election to determine the next President of the United States.",
+        "type": "election"
+    },
+    {
+        "date": "10/9/2024",
+        "title": "Federal Budget Announcement",
+        "description": "The federal government releases the budget for the next fiscal year.",
+        "type": "state"
+    },
+    {
+        "date": "15/9/2024",
+        "title": "Presidential Debate",
+        "description": "The first presidential debate between the Democratic and Republican candidates.",
+        "type": "multi"
+    }
+]
