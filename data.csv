@@ -1,3 +1,9 @@
-candidate,electors
-Democrat,240
-Republican,230
+date,type,title,description
+19/8/2024,dem,Démocrates,"Convention démocrate à Chicago pour désigner le candidat à l'élection présidentielle"
+20/8/2024,dem,Démocrates,"Convention démocrate à Chicago pour désigner le candidat à l'élection présidentielle"
+21/8/2024,dem,Démocrates,"Convention démocrate à Chicago pour désigner le candidat à l'élection présidentielle"
+22/8/2024,dem,Démocrates,"Convention démocrate à Chicago pour désigner le candidat à l'élection présidentielle"
+6/9/2024,state,Fédéral,"Début du vote par courrier dans certains États"
+10/9/2024,multi,"Débat présidentiel","Débat présidentiel entre les candidats démocrate et républicain sur la chaîne ABC"
+20/9/2024,state,Fédéral,"Début du vote anticipé dans certains États"
+5/11/2024,election,Fédéral,"Élection présidentielle"
